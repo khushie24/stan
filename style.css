@@ -1,0 +1,164 @@
+.firstblock{
+    background-color: #8C1515;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: right;
+}
+.firstblock a {
+    color: white; 
+    font-size: 20px; 
+    margin-right: 10px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+.firstblock i {
+margin-top: 15px;
+margin-right:10px;
+margin-left: 20px;
+color: white;
+ }
+
+.firstblock p {
+    margin-right: 50px;
+    margin-left: 0%;
+}
+.secondblock{
+ background-color: beige;
+ height: 80px;
+ color: #8C1515;
+ align-items: center;
+ display: flex;
+ 
+}
+.secondblock a{
+ font-size: 35px;
+ margin-left: 30px;
+ font-weight: 600;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+.secondblock p{
+    font-size: 35px;
+    margin-left: 10px;
+}
+.thirdblock{
+    height: 900px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+}
+.thirdblock p {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+.box {
+    height: 500px;
+    background-color: white;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    margin-right: 200px;
+    margin-top: 200px;
+    }
+
+.box1{
+    margin-right:  20px;
+}
+.box2{
+    margin-left: 40px;
+
+}
+
+.boxheading p{
+    font-size: 25px ;
+    height: 30px;
+    width: 400px;
+    background-color: black;
+    color: beige;
+    margin: 0px;
+    padding: 11px;
+}
+
+.firstblock span {
+    font-weight: 600 ;
+}
+.thirdblock button {
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-left: 135px;
+    margin-top: 60px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #8C1515;
+}
+.fourthblock{
+ background-color:wheat;
+ height: 80px;
+ color: black;
+ text-decoration: none;
+ display: flex;
+ justify-content: space-evenly;
+
+}
+.fourthblock a{
+    margin-right: 10px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: black;   
+}
+.fourthblock i {
+    margin-top: 30px;
+    font-weight: 800;
+    size: 200px;
+}
+.fourthblock span{
+    font-weight: 900;
+    color: black;
+}
+.fifthblock{
+    height: 250px;
+    background-color:#8C1515;
+    color: white;
+    /*display: flex;
+    justify-content: space-evenly*/
+}
+.fifthblock img{
+  height: 51px;
+  width: 110px;
+  margin-top: 25px;
+  margin-left: 40px;
+}
+.fifthblock a{
+    margin-left:40px;
+    font-size: 18px;
+}
+.fifthblock span{
+    font-weight: 800; 
+    margin-left: 2.2rem;
+}
+.fifthblock p{
+    margin-left: 9.7rem;
+}
+.INPUT{
+     margin-top:20px;
+     margin-left: 30PX;
+    font-size: 25PX;
+}
+.INPUT INPUT{
+    margin-top: 30PX;
+    margin-bottom: 40PX;
+    font-size: 25PX;
+}
+.INPUT button{
+    margin-left: 110PX;
+    box-shadow: #8C1515;
+}
+
